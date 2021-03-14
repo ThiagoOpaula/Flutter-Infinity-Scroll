@@ -1,6 +1,6 @@
 # helloworld
 
-A new Flutter project.
+A Flutter project of a infinity scroll
 
 ## Getting Started
 
